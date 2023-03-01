@@ -1,0 +1,23 @@
+.signup{
+          /* border:3px solid brown; */
+          border-radius: 10px;
+          text-align: center;
+          width: 40vw;
+          background-color: lightseagreen;
+          padding: 5px;
+         
+         
+}
+.container
+{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    margin:100px;
+    
+
+  
+}
+ body{
+   background: url("https://www.freecodecamp.org/news/content/images/2021/06/w-qjCHPZbeXCQ-unsplash.jpg");
+} 

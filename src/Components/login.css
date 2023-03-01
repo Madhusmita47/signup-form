@@ -1,0 +1,74 @@
+.login{
+    display: flex;
+    height:80vh;
+    /* border: 1px solid blue ; */
+    flex-direction: column;
+    align-items:center ;
+   
+  
+}
+.title{
+    height:10vh;
+    /* border:1px solid brown; */
+    width:400px;
+    display: flex;
+    justify-content: center;
+    
+}
+.content{
+    height:60vh;
+    margin-top: 40px;
+    width:350px;
+    padding: 20px;
+    background-color:lightskyblue;
+    border-radius: 20px;
+    
+}
+.submit{
+    
+    /* border:1px solid green; */
+    width:400px;
+    display: flex;
+    justify-content: center;
+   
+}
+.a{
+    display:flex;
+    height:15vh;
+    /* border:1px solid blueviolet; */
+    justify-content: center;
+    align-items: flex-end;
+    /* padding-top: 20px; */
+    
+    
+}
+
+.e{
+    display: flex;
+    height:10vh;
+    /* border:1px solid goldenrod; */
+    width:300px;
+    align-items: flex-end;
+    justify-content: space-around;
+    
+}
+.p{
+    display: flex;
+    /* border:1px solid red; */
+    height:10vh; 
+    width:300px;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+.b{
+    
+    display: flex;
+    /* border:1px solid red; */
+    height:10vh; 
+    width:300px;
+    align-items: flex-start;
+    justify-content: center;
+}
+/* body{
+    background: url("https://static-cse.canva.com/blob/572626/1.magebyRodionKutsaevviaUnsplash.jpg");
+} */
